@@ -1,2 +1,0 @@
-    Name                 Cache name                                 Expires
-* eujeong@42SEOUL.KR   API:7ACC2BAD-F563-4B4D-B2E9-BD8C67748DE4   Jul 29 22:42:18 2020
